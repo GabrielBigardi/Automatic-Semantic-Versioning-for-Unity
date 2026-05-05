@@ -1,4 +1,4 @@
-# Unity AutoSemVer (4-Digit Game Dev Edition)
+# Automatic Semantic Versioning for Unity (4-Digit Game Dev Edition)
 
 An automated, Git-driven Semantic Versioning build processor for Unity. 
 
