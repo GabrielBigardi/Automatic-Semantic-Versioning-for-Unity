@@ -1,0 +1,20 @@
+{
+  "name": "com.gabrielbigardi.autosemver",
+  "version": "1.0.0",
+  "displayName": "AutoSemVer",
+  "description": "An automated, Git-driven Semantic Versioning build processor tailored for game development. Automatically calculates and bumps your Unity PlayerSettings version based on Conventional Commits.",
+  "unity": "2021.3",
+  "keywords": [
+    "semver",
+    "versioning",
+    "build",
+    "git",
+    "automation",
+	"semantic",
+	"automatic",
+	"version"
+  ],
+  "author": {
+    "name": "Gabriel Bigardi"
+  }
+}
