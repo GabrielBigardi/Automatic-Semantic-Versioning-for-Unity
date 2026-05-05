@@ -1,4 +1,4 @@
-# Automatic Semantic Versioning for Unity (4-Digit Game Dev Edition)
+# Automatic Semantic Versioning for Unity
 
 An automated, Git-driven Semantic Versioning build processor for Unity. 
 
